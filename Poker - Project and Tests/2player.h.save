@@ -1,0 +1,6 @@
+#ifndef 2PLAYER_H_INCLUDED
+#define 2PLAYER_H_INCLUDED
+
+void game(char*);
+
+#endif // 2PLAYER_H_INCLUDED

@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1589976646 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"c.h"
+	"global.h"
+
+1589976649 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\c.h
+
+1589976649 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\global.h
+	<stdio.h>
+
+1589976646 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\di.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"di.h"
+
+1589976649 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\di.h
+	<stdio.h>
+
+1589976646 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\dx.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"dx.h"
+
+1589976649 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\dx.h
+	<stdio.h>
+
+1589976646 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\global.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+
+1590885240 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\poker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"c.h"
+	"di.h"
+	"dx.h"
+	"s.h"
+	"game.h"
+
+1590879573 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\s.h
+	<stdio.h>
+
+1590882774 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\s.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"s.h"
+
+1590883708 c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\game.h
+
+1590885095 source:c:\users\sebastião\documents\ist meec\1º ano 2º semestre\prog\projetoprog2\poker\game.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"game.h"
+
